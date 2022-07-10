@@ -1,3 +1,4 @@
+#Website Blocker python project
 from tkinter import *
 root = Tk()
 root['bg'] = 'light blue'
