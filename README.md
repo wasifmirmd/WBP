@@ -15,5 +15,5 @@ and edit the host file location depending on the OS your using
 ```bash
     $-> git clone https://github.com/wasifmirmd/WebsiteBlocker
     $-> cd WebsiteBlocker
-    $ WebsiteBlocker ->
+    $-> python3 blocker.py
 ```
